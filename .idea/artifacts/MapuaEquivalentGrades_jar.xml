@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MapuaEquivalentGrades:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MapuaEquivalentGrades_jar</output-path>
+    <root id="archive" name="MapuaEquivalentGrades.jar">
+      <element id="module-output" name="MapuaEquivalentGrades" />
+    </root>
+  </artifact>
+</component>
